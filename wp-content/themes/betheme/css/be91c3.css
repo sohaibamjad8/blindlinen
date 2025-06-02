@@ -6836,3 +6836,11 @@ html.mfn-popup-browser-scroll-disabled{ overflow: hidden; max-height: 100vh; pad
 @media only screen and (max-width: 767px) {
     .mfn-banner-box.mfn-show-hidden-elements-on-mobile .banner-desc .hidden-desc { opacity: 1; height: var(--mfn-banner-box-height); }
 }
+
+#partners_grid .image_wrapper img{
+        width: auto;
+    height: auto;
+}
+#partners_grid .image_wrapper{
+    height: auto;
+}
